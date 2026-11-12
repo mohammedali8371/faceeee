@@ -1,0 +1,12 @@
+python-telegram-bot>=20.5
+uvicorn
+starlette
+opencv-python-headless
+numpy
+insightface
+onnxruntime
+lama-cleaner
+torch
+transformers
+accelerate
+Pillow
